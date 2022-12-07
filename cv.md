@@ -5,8 +5,8 @@
 ### Contact information:
 
 phone: +375293479143  
-e-mail: begunovich.olga@gmail.com  
-github: https://github.com/VolhaBehunovich
+e-mail: [begunovich.olga@gmail.com](begunovich.olga@gmail.com)  
+github: [https://github.com/VolhaBehunovich](https://github.com/VolhaBehunovich)
 
 ---
 
@@ -44,11 +44,11 @@ function mouthSize(animal) {
 
 ### My projects:
 
-https://volhabehunovich.github.io/Social-proof-section/  
-https://volhabehunovich.github.io/Profile-card-component/  
-https://volhabehunovich.github.io/3_column_preview_card_component_main/  
-https://volhabehunovich.github.io/Stats_preview_card_component/  
-https://volhabehunovich.github.io/NFT_preview_card_component/
+[https://volhabehunovich.github.io/Social-proof-section/](https://volhabehunovich.github.io/Social-proof-section/)
+[https://volhabehunovich.github.io/Profile-card-component/](https://volhabehunovich.github.io/Profile-card-component/)  
+[https://volhabehunovich.github.io/3_column_preview_card_component_main/](https://volhabehunovich.github.io/3_column_preview_card_component_main/)  
+[https://volhabehunovich.github.io/Stats_preview_card_component/](https://volhabehunovich.github.io/Stats_preview_card_component/)  
+[https://volhabehunovich.github.io/NFT_preview_card_component/](https://volhabehunovich.github.io/NFT_preview_card_component/)
 
 ---
 
