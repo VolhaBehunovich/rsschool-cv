@@ -44,7 +44,7 @@ function mouthSize(animal) {
 
 ### My projects:
 
-[https://volhabehunovich.github.io/Social-proof-section/](https://volhabehunovich.github.io/Social-proof-section/)
+[https://volhabehunovich.github.io/Social-proof-section/](https://volhabehunovich.github.io/Social-proof-section/)  
 [https://volhabehunovich.github.io/Profile-card-component/](https://volhabehunovich.github.io/Profile-card-component/)  
 [https://volhabehunovich.github.io/3_column_preview_card_component_main/](https://volhabehunovich.github.io/3_column_preview_card_component_main/)  
 [https://volhabehunovich.github.io/Stats_preview_card_component/](https://volhabehunovich.github.io/Stats_preview_card_component/)  
@@ -56,7 +56,7 @@ function mouthSize(animal) {
 
 - HTML, CSS Tutorials by w3schools
 - JS Tutorial by w3schools (in progress)
-- JS at https://learn.javascript.ru (in progress)
+- JS at [learn.javascript](https://learn.javascript.ru) (in progress)
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ---
