@@ -4,7 +4,7 @@
 
 ### Contact information:
 
-phone: +375 29 3479143  
+phone: +375293479143  
 e-mail: begunovich.olga@gmail.com  
 github: https://github.com/VolhaBehunovich
 
@@ -27,7 +27,7 @@ I just want to make beautiful websites...
 
 ### Code example:
 
-**Description:** _The wide-mouth frog is particularly interested in the eating habits of other creatures. He just can't stop asking the creatures he encounters what they like to eat. But, then he meets the alligator who just LOVES to eat wide-mouthed frogs! When he meets the alligator, it then makes a tiny mouth._
+**Description:** _The wide-mouth frog is particularly interested in the eating habits of other creatures. He just can't stop asking the creatures he encounters what they like to eat. But, then he meets the alligator who just LOVES to eat wide-mouthed frogs! When he meets the alligator, it then makes a tiny mouth._  
 **Solution:**
 
 ```
