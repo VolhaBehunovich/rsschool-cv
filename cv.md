@@ -5,7 +5,7 @@
 ### Contact information:
 
 phone: +375293479143  
-e-mail: [begunovich.olga@gmail.com](begunovich.olga@gmail.com)  
+e-mail: [begunovich.olga@gmail.com](mailto:begunovich.olga@gmail.com)  
 github: [https://github.com/VolhaBehunovich](https://github.com/VolhaBehunovich)
 
 ---
