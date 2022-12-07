@@ -42,6 +42,16 @@ function mouthSize(animal) {
 
 ---
 
+### My projects:
+
+https://volhabehunovich.github.io/Social-proof-section/  
+https://volhabehunovich.github.io/Profile-card-component/  
+https://volhabehunovich.github.io/3_column_preview_card_component_main/  
+https://volhabehunovich.github.io/Stats_preview_card_component/  
+https://volhabehunovich.github.io/NFT_preview_card_component/
+
+---
+
 ### Courses:
 
 - HTML, CSS Tutorials by w3schools
